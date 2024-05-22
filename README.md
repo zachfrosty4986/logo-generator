@@ -33,4 +33,6 @@
 
   Zachary Magras
   
-You can find a link to the Repository, Here: https://github.com/zachfrosty4986/logo-generator
+You can find a link to the Repository, here: https://github.com/zachfrosty4986/logo-generator
+You can find a link for the application tutorial, here: https://app.screencastify.com/v2/manage/videos/pl3QQuikfpQ2diHiqvdv
+
